@@ -4,10 +4,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
-    //Коммент для мастера №4
+    //
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //Коммент номер 1 для ветки fourth_branch
+        //Коммент номер 2 для ветки fourth_branch и мержим её в мастер
     }
 }
