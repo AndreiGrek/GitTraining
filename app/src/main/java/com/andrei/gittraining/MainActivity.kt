@@ -11,11 +11,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun wrfe(){
-
-    }
-
-    fun wfwe(){
-        
-    }
 }
