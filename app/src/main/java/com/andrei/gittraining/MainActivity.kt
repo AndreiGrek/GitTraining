@@ -7,6 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //Коммент номер 1 для ветки first_branch
+        //Коммент номер 2 для ветки first_branch
     }
 }
