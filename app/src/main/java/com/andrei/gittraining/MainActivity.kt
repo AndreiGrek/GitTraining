@@ -14,5 +14,5 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    //Кое-какие изменения в мастере
+    //Кое-какие изменения в мастере, которые потом изенил в mergeBranch 
 }
