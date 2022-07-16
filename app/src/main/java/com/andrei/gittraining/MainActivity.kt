@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
 
     //Шлюха
+    //Сам шлюха
 
     // Много разных изменений для PullRequest
     //tgetrg4tg
@@ -22,4 +23,6 @@ class MainActivity : AppCompatActivity() {
     //45g45g45g
     //e34t3t
     //3t 3t34tv3t43
+
+    //Кое-что
 }
