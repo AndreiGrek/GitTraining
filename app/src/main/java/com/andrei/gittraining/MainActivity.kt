@@ -20,4 +20,5 @@ class MainActivity : AppCompatActivity() {
     // Много разных изменений для PullRequest
 
     //Кое-что
+    //TEST
 }
