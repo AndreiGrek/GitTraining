@@ -2,7 +2,7 @@ package com.andrei.gittraining
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-
+//Всё исправил прям здесь.
 class MainActivity : AppCompatActivity() {
     // Мастер
     override fun onCreate(savedInstanceState: Bundle?) {
