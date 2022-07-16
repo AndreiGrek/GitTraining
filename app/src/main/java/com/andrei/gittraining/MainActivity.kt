@@ -12,6 +12,5 @@ class MainActivity : AppCompatActivity() {
         //k2
         //k3
         //k4
-        //k5
     }
 }
