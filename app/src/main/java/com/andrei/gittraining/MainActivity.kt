@@ -8,11 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        
         //k1
-        //k2
-        //k3
-        //k4
-        //k5
     }
 }
