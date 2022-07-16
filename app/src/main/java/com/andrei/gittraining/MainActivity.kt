@@ -13,4 +13,6 @@ class MainActivity : AppCompatActivity() {
 // Блаблабла
     }
 
+
+    //Кое-какие изменения в мастере
 }
