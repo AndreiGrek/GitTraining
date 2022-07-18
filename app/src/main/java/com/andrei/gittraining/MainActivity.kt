@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         //Изменения
         //Fetch
         //Pull
+        //Изменения в мастере
     }
 }
